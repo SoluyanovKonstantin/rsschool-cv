@@ -5,4 +5,4 @@
 5. Some of my projects: http://c950166q.beget.tech/coffee/, http://c950166q.beget.tech/javascript/, http://c950166q.beget.tech/practice/, http://c950166q.beget.tech
 6. Passed some courses at html academy
 7. Currently I'm at 3rd course in University on faculty Fundamental Informatics and Information Technology.
-8. My english level is probably A2, I don't know to be hones
+8. My english level is probably A2, I don't know to be honest
