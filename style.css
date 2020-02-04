@@ -2,6 +2,12 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.main__body {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
 .main__header {
     border-bottom: 1px solid lightgrey;
     font-size: 32px;
@@ -45,4 +51,10 @@ body {
 
 .main__body li a:hover {
     text-decoration: underline;
+}
+
+.avatar {
+    border-radius: 25%;
+    margin-top: 15px;
+    border: 6px solid black;
 }
